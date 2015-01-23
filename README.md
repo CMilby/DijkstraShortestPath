@@ -4,6 +4,8 @@ Wanting to try to implement DSPA, I looked for visual examples to see how it act
 ##How It Works
 Left Click: This will use the current tool that is selected  
 Middle Click: Unhighlight all highighted nodes  
+##History  
+Written with Java in January 2014
 ##Tools
 * Node Creator: Creates a new node
 * Edge Creator: Selected two nodes and create an edge between them then prompted to set weight for edge  
@@ -12,5 +14,3 @@ Middle Click: Unhighlight all highighted nodes
 * Eraser: Erase a node or edge
 * Run: Run DSPA and print the shortest path to the console
 Other Tools include turning Node and Edge names on and off  
-##History  
-Written with Java in January 2014
