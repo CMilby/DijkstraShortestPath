@@ -4,7 +4,7 @@ Wanting to try to implement DSA, I looked for visual examples to see how it actu
 ##How It Works
 Left Click: This will use the current tool that is selected  
 Middle Click: Unhighlight all highighted nodes  
-Tools
+##Tools
 + Node Creator: Creates a new node  
 + Edge Creator: Selected two nodes and create an edge between them then prompted to set weight for edge  
 + Start Point Creator: Choose the start point for the algorithm  
