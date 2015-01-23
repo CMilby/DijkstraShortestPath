@@ -10,6 +10,6 @@ Middle Click: Unhighlight all highighted nodes
 + Start Point Creator: Choose the start point for the algorithm  
 + End Point Creator: Choose the end point for the algorithm  
 + Eraser: Erase a node or edge  
-+ Run: Run DSPA and print the shortest path to the console
++ Run: Run DSPA and print the shortest path to the console  
 ##History
 Written with Java in January 2014
